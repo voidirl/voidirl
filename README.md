@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a1f2b,100:0b0f1a&height=150&section=header&text=Rishavdeep%20Singh&fontSize=42&fontColor=7df9ff&animation=fadeIn" />
+  <img src="https://github-readme-stats.vercel.app/api?username=voidirl&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
-
 
 
 
