@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=150&section=header&text=Rishavdeep%20Singh&fontSize=42&fontColor=00f7ff&animation=blink" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=160&section=header&text=Rishavdeep%20Singh&fontSize=40&fontColor=00e5ff&animation=twinkling" />
 </p>
+
 
 
 <h3 align="center">
