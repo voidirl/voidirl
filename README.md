@@ -1,5 +1,27 @@
-# 💫 About Me:
-Learning Java & Spring and building small projects to get better every day.<br>Beginner-friendly Java / Spring projects & open source.<br><br>🌱 Learning:<br>Java ☕ | Spring 🌱 | DSA 🧠 | Git & GitHub 🚀<br><br>Most of my learning happens after fixing errors at 2 AM 🌙
+<!-- Cyberpunk Neon Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=170&section=header&text=Rishavdeep%20Singh&fontSize=42&fontColor=00f7ff&animation=fadeIn" />
+</p>
+
+<h3 align="center">
+  ⚡ Backend Developer | Java • Spring
+</h3>
+
+<p align="center">
+  <em>「 neon lights, dark code, silent grind 」</em>
+</p>
+
+---
+
+## 🧠 SYSTEM PROFILE
+
+```txt
+Name        : Rishavdeep Singh
+Role        : Backend Developer
+Core Stack  : Java / Spring Boot
+Status      : Learning • Building • Debugging
+Active Time : 22:00 – 03:00
+
 
 
 ## 🌐 Socials:
