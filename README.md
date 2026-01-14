@@ -3,7 +3,6 @@
 </p>
 
 
-
 <h3 align="center">
   ⚡ Backend Developer | Java • Spring
 </h3>
