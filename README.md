@@ -1,5 +1,67 @@
-# 💫 About Me:
-Computer Science student learning backend development.<br><br>Currently focused on Java, Spring Boot, and core CS fundamentals.<br>Building small projects and improving step by step.<br>
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body{
+  margin:0;
+  height:100vh;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  font-family:monospace;
+  background:white;
+}
+
+.text{
+  font-size:55px;
+  border-right:3px solid black;
+  white-space:nowrap;
+  overflow:hidden;
+}
+</style>
+</head>
+<body>
+
+<div class="text" id="text"></div>
+
+<script>
+const words = ["Hi", "I'm Rishav"];
+let i = 0;
+let j = 0;
+let current = "";
+let isDeleting = false;
+const speed = 100;
+
+function type(){
+  if(i < words.length){
+    if(!isDeleting && j <= words[i].length){
+      current = words[i].substring(0,j++);
+      document.getElementById("text").textContent = current;
+    }
+
+    if(j === words[i].length+1){
+      setTimeout(()=> isDeleting = true, 800);
+    }
+
+    if(isDeleting && j >= 0){
+      current = words[i].substring(0,j--);
+      document.getElementById("text").textContent = current;
+    }
+
+    if(j < 0){
+      isDeleting = false;
+      i++;
+    }
+
+    setTimeout(type, speed);
+  }
+}
+
+type();
+</script>
+
+</body>
+</html>
 
 
 ## 🌐 Socials:
