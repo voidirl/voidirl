@@ -3,6 +3,7 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3500&pause=1000&color=444444&center=true&vCenter=true&width=500&lines=Dev;Full+Stack+Learner;exploring+AI" />
+  <img src="https://github-readme-stats.vercel.app/api?username=voidirl&show_icons=true&include_all_commits=true&count_private=true" />
 </p>
 
 <p align="center">
