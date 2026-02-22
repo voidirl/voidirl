@@ -1,5 +1,13 @@
 # 💫 About Me:
-<!DOCTYPE html><br><html><br><head><br><style><br>body{<br>  margin:0;<br>  height:100vh;<br>  display:flex;<br>  justify-content:center;<br>  align-items:center;<br>  font-family:monospace;<br>  background:white;<br>}<br><br>.text{<br>  font-size:55px;<br>  border-right:3px solid black;<br>  white-space:nowrap;<br>  overflow:hidden;<br>}<br></style><br></head><br><body><br><br><div class="text" id="text"></div><br><br><script><br>const words = ["Hi 👋", "I'm Rishav", "Developer", "Creator"];<br>let i = 0;<br>let j = 0;<br>let current = "";<br>let isDeleting = false;<br>const speed = 100;<br><br>function type(){<br>  if(i < words.length){<br>    if(!isDeleting && j <= words[i].length){<br>      current = words[i].substring(0,j++);<br>      document.getElementById("text").textContent = current;<br>    }<br><br>    if(j === words[i].length+1){<br>      setTimeout(()=> isDeleting = true, 800);<br>    }<br><br>    if(isDeleting && j >= 0){<br>      current = words[i].substring(0,j--);<br>      document.getElementById("text").textContent = current;<br>    }<br><br>    if(j < 0){<br>      isDeleting = false;<br>      i++;<br>    }<br><br>    setTimeout(type, speed);<br>  }<br>}<br><br>type();<br></script><br><br></body><br></html>
+<h1 align="center">Hi, I'm Rishav</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3500&pause=1000&color=555555&center=true&vCenter=true&width=500&lines=Java+Developer;Full+Stack+Learner;Exploring+AI;Always+Building" />
+</p>
+
+<p align="center">
+  <i>Building clean solutions with simple code.</i>
+</p>
 
 
 ## 🌐 Socials:
