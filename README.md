@@ -10,5 +10,5 @@ Learning Java & Spring and building small projects to get better every day.<br>B
 
 ---
 [![](https://visitcount.itsvg.in/api?id=voidirl&icon=0&color=0)](https://visitcount.itsvg.in)
-
+![](https://streak-stats.demolab.com/?user=voidirl&theme=neon&hide_border=false)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
