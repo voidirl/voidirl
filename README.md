@@ -5,9 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3500&pause=1000&color=444444&center=true&vCenter=true&width=500&lines=Dev;Full+Stack+Learner;exploring+AI" />
 </p>
 
-<p align="center">
-  <i>building myself!</i>
-</p>
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Site-c9a84c?style=for-the-badge&logoColor=white)](https://my-portfolio-three-orpin-56.vercel.app)
 
 
 ## 🌐 Socials:
