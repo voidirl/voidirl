@@ -4,12 +4,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3500&pause=1000&color=444444&center=true&vCenter=true&width=500&lines=Dev;Full+Stack+Learner;exploring+AI" />
 </p>
-<div align="center">
-  <img src="https://img.shields.io/badge/Portfolio-informational?style=flat&logo=vercel&logoColor=white" alt="Portfolio"/>
-</div>
-<div align="center">
-  <img src="https://img.shields.io/badge/Portfolio-brightgreen?style=flat&logo=vercel&logoColor=white" alt="Portfolio"/>
-</div>
+
 <div align="center">
   <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=flat&logo=vercel&logoColor=white" alt="Portfolio"/>
 </div>
