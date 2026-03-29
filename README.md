@@ -5,9 +5,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3500&pause=1000&color=444444&center=true&vCenter=true&width=500&lines=Dev;Full+Stack+Learner;exploring+AI" />
 </p>
 
+<div align="center">
 <a href="https://my-portfolio-three-orpin-56.vercel.app">
   <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-c9a84c?style=for-the-badge" alt="Portfolio"/>
 </a>
+</div>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rishav_chambyal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rishav-rajput-213112361) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rishavrajput204@gmail.com) 
