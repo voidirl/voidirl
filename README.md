@@ -6,9 +6,9 @@
 </p>
 
 <div align="center">
-<a href="https://my-portfolio-three-orpin-56.vercel.app">
-  <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-c9a84c?style=for-the-badge" alt="Portfolio"/>
-</a>
+  <a href="https://my-portfolio-three-orpin-56.vercel.app">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-4A90D9?style=flat&logoColor=white" alt="Portfolio"/>
+  </a>
 </div>
 
 ## 🌐 Socials:
