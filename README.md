@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1488CC,100:2B32B9&height=220&section=header&text=Rishav&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20FastAPI%20%2B%20Spring%20Boot%20%2B%20React&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243e&height=220&section=header&text=Rishav&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20FastAPI%20%2B%20Spring%20Boot%20%2B%20React&descAlignY=58&descSize=18" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+%26+Shipping+Full-Stack+Projects;FastAPI+%2B+Spring+Boot+%2B+React+%2B+Docker;Exploring+AI+with+Groq+LLMs;DSA+Grind+%E2%80%94+Striver's+A2Z+Sheet" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+%26+Shipping+Full-Stack+Projects;FastAPI+%2B+Spring+Boot+%2B+React+%2B+Docker;Exploring+AI+with+Groq+LLMs;Grinding+DSA+Daily" alt="Typing SVG" />
 
 <br/>
 
@@ -47,8 +47,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=voidirl&show_icons=true&theme=neon&hide_border=false&count_private=true&card_width=440" />
-<img src="https://streak-stats.demolab.com/?user=voidirl&theme=neon&hide_border=false&card_width=440" />
+<img src="https://github-readme-stats.vercel.app/api?username=voidirl&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&count_private=true&card_width=440" />
+<img src="https://streak-stats.demolab.com/?user=voidirl&theme=dark&hide_border=true&background=0D1117&card_width=440" />
 </div>
 
 <br/>
@@ -56,15 +56,15 @@
 ### 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/voidirl/voidirl/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/voidirl/voidirl/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1488CC,100:2B32B9&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243e&height=100&section=footer" />
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=voidirl&color=blueviolet&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=voidirl&color=24243e&style=for-the-badge)
 
 </div>
