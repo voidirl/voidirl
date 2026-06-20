@@ -21,4 +21,20 @@
 ![](https://streak-stats.demolab.com/?user=voidirl&theme=neon&hide_border=false)</br>
 ---
 ![](https://komarev.com/ghpvc/?username=voidirl&color=blueviolet&style=flat)
+
+### 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/voidirl/voidirl/output/github-contribution-grid-snake-dark.svg" />
+</div>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243e&height=100&section=footer" />
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=voidirl&color=24243e&style=for-the-badge)
+
+</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
