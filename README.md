@@ -2,23 +2,19 @@
 <img src="https://raw.githubusercontent.com/voidirl/voidirl/main/assets/hero-banner.svg" width="100%" />
 </div>
 
-### About me
+<h3 align="center"><sub>◤</sub> ABOUT <sub>◢</sub></h3>
 
-- 🛠️ Building full-stack projects with **FastAPI**, **Spring Boot**, and **React**
-- 🐳 Containerizing everything with Docker, shipping with CI/CD
-- ⚔️ Grinding DSA daily — Striver's A2Z sheet, LeetCode
-- 🤖 Exploring AI integrations with Groq LLMs
-- 🐧 Daily driving Arch Linux + Hyprland
+Building full-stack projects with FastAPI, Spring Boot, and React. Containerizing with Docker, shipping with CI/CD. Currently grinding DSA — Striver's A2Z sheet — and exploring AI integrations with Groq. Daily driving Arch Linux with Hyprland.
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B9D?style=for-the-badge&logo=vercel&logoColor=white)](https://v0idrsh.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF6B9D?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rshv11)
-[![Email](https://img.shields.io/badge/Email-FF6B9D?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishavrajput204@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-21262d?style=for-the-badge&logo=vercel&logoColor=white)](https://v0idrsh.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rshv11)
+[![Email](https://img.shields.io/badge/Email-21262d?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishavrajput204@gmail.com)
 
 </div>
 
-### Tech Stack
+<h3 align="center"><sub>◤</sub> STACK <sub>◢</sub></h3>
 
 <div align="center">
 
@@ -26,15 +22,9 @@
 
 </div>
 
-### GitHub Stats
+<h3 align="center"><sub>◤</sub> STATS <sub>◢</sub></h3>
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=voidirl&show_icons=true&theme=dracula&hide_border=true&count_private=true&card_width=440" />
 <img src="https://streak-stats.demolab.com/?user=voidirl&theme=dracula&hide_border=true&card_width=440" />
-</div>
-
-### Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/voidirl/voidirl/output/snake-dark.svg" />
 </div>
