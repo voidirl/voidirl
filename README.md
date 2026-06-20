@@ -43,3 +43,4 @@ os: Arch Linux (btw) · Hyprland
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A2E,50:16213E,100:0F3460&height=80&section=footer" />
 
 </div>
+<img src="https://raw.githubusercontent.com/voidirl/voidirl/output/snake-dark.svg" />
