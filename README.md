@@ -1,48 +1,46 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0D2818,100:0D1117&height=200&section=header&text=void.rishav&fontSize=46&fontColor=39FF14&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%C2%B7%20Building%20%2B%20Shipping&descAlignY=58&descSize=15&descColor=ffffff" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1488CC,100:2B32B9&height=200&section=header&text=Rishav&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20FastAPI%20%2B%20Spring%20Boot%20%2B%20React&descAlignY=58&descSize=16" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=FastAPI+%C2%B7+Spring+Boot+%C2%B7+React+%C2%B7+Docker;Building+full-stack+projects+end+to+end;Currently+grinding+DSA" alt="Typing SVG" />
+### Hii, I'm Rishav 👋
+Full Stack Learner — FastAPI, Spring Boot, React, Docker. Exploring AI with Groq.
 
-<br/>
-
-<a href="https://v0idrsh.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=39FF14" /></a>
-<a href="https://linkedin.com/in/rshv11"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=39FF14" /></a>
-<a href="mailto:rishavrajput204@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=39FF14" /></a>
-
-</div>
+<img src="https://readme-svg-typing-generator.vercel.app/api?lines=Building+%26+Shipping+Full-Stack+Projects;FastAPI+%C2%B7+Spring+Boot+%C2%B7+React+%C2%B7+Docker;Currently+Grinding+DSA&animation=swing&color=58A6FF&width=600" alt="Typing SVG" />
 
 <br/>
 
-### `~/about`
-
-```yaml
-role: BTech CSE student
-focus: building and shipping full-stack projects
-stack: FastAPI · Spring Boot · React · Docker
-currently: grinding DSA · exploring AI 
-```
-
-### `~/tech-stack`
-
-<div align="center">
-
-![Java](https://img.shields.io/badge/java-0D1117.svg?style=for-the-badge&logo=openjdk&logoColor=39FF14) ![Python](https://img.shields.io/badge/python-0D1117?style=for-the-badge&logo=python&logoColor=39FF14) ![C++](https://img.shields.io/badge/c++-0D1117.svg?style=for-the-badge&logo=c%2B%2B&logoColor=39FF14) ![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=39FF14) ![Spring](https://img.shields.io/badge/spring-0D1117.svg?style=for-the-badge&logo=spring&logoColor=39FF14)
-
-![React](https://img.shields.io/badge/react-0D1117.svg?style=for-the-badge&logo=react&logoColor=39FF14) ![PostgreSQL](https://img.shields.io/badge/postgresql-0D1117.svg?style=for-the-badge&logo=postgresql&logoColor=39FF14) ![Docker](https://img.shields.io/badge/docker-0D1117.svg?style=for-the-badge&logo=docker&logoColor=39FF14) ![Linux](https://img.shields.io/badge/Linux-0D1117.svg?style=for-the-badge&logo=linux&logoColor=39FF14) ![Groq](https://img.shields.io/badge/Groq-0D1117?style=for-the-badge&logo=groq&logoColor=39FF14)
+<a href="https://v0idrsh.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://linkedin.com/in/rshv11"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:rishavrajput204@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
 
-### `~/stats`
+<br/>
+
+### 🛠️ Tech Stack
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=voidirl&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=ffffff&count_private=true&card_width=440" />
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
+
 </div>
+
+### 📊 GitHub Stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=voidirl&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&card_width=440" />
+</div>
+
+### 🐍 Contribution Snake
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/voidirl/voidirl/output/snake-dark.svg" />
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0D2818,100:0D1117&height=80&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1488CC,100:2B32B9&height=80&section=footer" />
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=voidirl&color=blueviolet&style=for-the-badge)
 
 </div>
