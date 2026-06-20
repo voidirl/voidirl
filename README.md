@@ -19,9 +19,6 @@
 
 # 📊 GitHub Stats:
 ![](https://streak-stats.demolab.com/?user=voidirl&theme=neon&hide_border=false)</br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=voidirl&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 ---
 ![](https://komarev.com/ghpvc/?username=voidirl&color=blueviolet&style=flat)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
