@@ -7,10 +7,11 @@ on:
   push:
     branches:
       - main
-      - master
 
 jobs:
   generate:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
     steps:
       - uses: Platane/snk@v3
@@ -18,12 +19,8 @@ jobs:
         with:
           github_user_name: voidirl
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - uses: actions/create-github-app-token@v1
-        id: app-token
-        if: false
+            dist/snake.svg
+            dist/snake-dark.svg?color_snake=58A6FF&color_dots=161b22,1488CC,2B32B9,58A6FF,79C0FF
 
       - name: push snake svg to output branch
         uses: crazy-max/ghaction-github-pages@v4
