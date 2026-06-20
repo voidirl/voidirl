@@ -47,6 +47,6 @@
 
   <!-- Text -->
   <text x="400" y="95" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="32" font-weight="700" fill="#ffffff">Hello! I'm Rishav 👋</text>
-  <text x="400" y="130" text-anchor="middle" font-family="'Fira Code', monospace" font-size="16" fill="#FF6B9D">Full Stack Dev ⚔️ DSA Grinder 🌸 Building things</text>
+  <text x="400" y="130" text-anchor="middle" font-family="'Fira Code', monospace" font-size="16" fill="#FF6B9D">Full Stack Dev - DSA Grinder - Building things</text>
   <text x="400" y="165" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="14" fill="#c9c9c9">Self-taught full-stack developer from India, pursuing BTech CSE</text>
 </svg>
