@@ -20,7 +20,7 @@ jobs:
           github_user_name: voidirl
           outputs: |
             dist/snake.svg
-            dist/snake-dark.svg?color_snake=58A6FF&color_dots=161b22,1488CC,2B32B9,58A6FF,79C0FF
+            dist/snake-dark.svg?color_snake=FF6B9D&color_dots=21262d,FF6B9D,FF3D7F,C9184A,800F2F
 
       - name: push snake svg to output branch
         uses: crazy-max/ghaction-github-pages@v4
