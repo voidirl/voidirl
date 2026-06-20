@@ -2,10 +2,11 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1488CC,100:2B32B9&height=200&section=header&text=Rishav&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20FastAPI%20%2B%20Spring%20Boot%20%2B%20React&descAlignY=58&descSize=16" />
 
-### Hii, I'm Rishav 👋
-Full Stack Learner — FastAPI, Spring Boot, React, Docker. Exploring AI with Groq.
+### Hii, I'm Rishav
 
-<img src="https://readme-svg-typing-generator.vercel.app/api?lines=Building+%26+Shipping+Full-Stack+Projects;FastAPI+%C2%B7+Spring+Boot+%C2%B7+React+%C2%B7+Docker;Currently+Grinding+DSA&animation=swing&color=58A6FF&width=600" alt="Typing SVG" />
+Full Stack Learner — FastAPI, Spring Boot, React, Docker. Exploring AI.
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+and+shipping+full-stack+projects;FastAPI+%C2%B7+Spring+Boot+%C2%B7+React+%C2%B7+Docker;Currently+grinding+DSA" alt="Typing SVG" />
 
 <br/>
 
@@ -17,7 +18,7 @@ Full Stack Learner — FastAPI, Spring Boot, React, Docker. Exploring AI with Gr
 
 <br/>
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <div align="center">
 
@@ -25,13 +26,13 @@ Full Stack Learner — FastAPI, Spring Boot, React, Docker. Exploring AI with Gr
 
 </div>
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=voidirl&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&card_width=440" />
 </div>
 
-### 🐍 Contribution Snake
+### Contribution Snake
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/voidirl/voidirl/output/snake-dark.svg" />
