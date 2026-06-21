@@ -7,7 +7,7 @@
 - Building full-stack projects with **FastAPI**, **Spring Boot**, and **React**
 - Containerizing everything with Docker, shipping with CI/CD
 - Grinding DSA daily — Striver's A2Z sheet, LeetCode
-- Exploring AI integrations with Groq LLMs
+- Exploring AI integrations
 - Daily driving Arch Linux + Hyprland
 
 <div align="center">
