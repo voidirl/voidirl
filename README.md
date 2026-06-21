@@ -2,9 +2,13 @@
 <img src="https://raw.githubusercontent.com/voidirl/voidirl/main/assets/hero-banner.svg" width="100%" />
 </div>
 
-<h3 align="center"><sub>◤</sub> ABOUT <sub>◢</sub></h3>
+**◤ ABOUT ◢**
 
-Building full-stack projects with FastAPI, Spring Boot, and React. Containerizing with Docker, shipping with CI/CD. Currently grinding DSA — Striver's A2Z sheet — and exploring AI integrations with Groq. Daily driving Arch Linux with Hyprland.
+- Building full-stack projects with **FastAPI**, **Spring Boot**, and **React**
+- Containerizing everything with Docker, shipping with CI/CD
+- Grinding DSA daily — Striver's A2Z sheet, LeetCode
+- Exploring AI integrations with Groq LLMs
+- Daily driving Arch Linux + Hyprland
 
 <div align="center">
 
@@ -14,7 +18,7 @@ Building full-stack projects with FastAPI, Spring Boot, and React. Containerizin
 
 </div>
 
-<h3 align="center"><sub>◤</sub> STACK <sub>◢</sub></h3>
+**◤ STACK ◢**
 
 <div align="center">
 
@@ -22,7 +26,7 @@ Building full-stack projects with FastAPI, Spring Boot, and React. Containerizin
 
 </div>
 
-<h3 align="center"><sub>◤</sub> STATS <sub>◢</sub></h3>
+**◤ STATS ◢**
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=voidirl&show_icons=true&theme=dracula&hide_border=true&count_private=true&card_width=440" />
