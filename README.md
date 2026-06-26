@@ -15,7 +15,9 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-21262d?style=for-the-badge&logo=vercel&logoColor=white)](https://v0idrsh.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rshv11)
 [![Email](https://img.shields.io/badge/Email-21262d?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishavrajput204@gmail.com)
-
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/rishav11-r?theme=dark&font=Nunito&ext=contest" />
+</div>
 </div>
 
 **◤ STACK ◢**
