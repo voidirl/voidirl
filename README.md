@@ -31,6 +31,5 @@
 **◤ STATS ◢**
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=voidirl&show_icons=true&theme=dracula&hide_border=true&count_private=true&card_width=440" />
-<img src="https://streak-stats.demolab.com/?user=voidirl&theme=dracula&hide_border=true&card_width=440" />
+<img src="https://github-readme-stats.vercel.app/api?username=voidirl&show_icons=true&theme=dracula&hide_border=true&count_private=true&card_width=440" /><img src="https://streak-stats.demolab.com/?user=voidirl&theme=dracula&hide_border=true&card_width=440" />
 </div>
