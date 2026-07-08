@@ -1,10 +1,8 @@
 name: Generate Metrics
-
 on:
   schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
-
 jobs:
   metrics:
     runs-on: ubuntu-latest
@@ -17,6 +15,7 @@ jobs:
           user: voidirl
           template: classic
           base: ""
+          config_order: isocalendar, languages
           config_theme: dracula
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
