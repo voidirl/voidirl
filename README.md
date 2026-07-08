@@ -1,16 +1,16 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/voidirl/voidirl/main/assets/hero-banner.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/voidirl/voidirl/main/assets/hero-banner.svg" width="80%" />
 </div>
 
 **◤ ABOUT ◢**
 
 Full-stack developer building backend-heavy, AI-integrated systems — from Dockerized microservices to LLM-powered tools. Currently pursuing BTech CSE, sharpening problem-solving through daily DSA practice, and shipping projects end-to-end: design, build, deploy.
 
-- 🔧 Backend-first engineering with **FastAPI** & **Spring Boot**, paired with **React** on the frontend
-- 🐳 Containerized workflows — Docker + CI/CD pipelines, from local dev to production
-- 🧠 Building with **LLMs** (Groq) — practical AI integrations, not just API calls
-- 📈 Daily DSA grind — Striver's A2Z sheet, Codeforces & LeetCode
-- ⚙️ Linux-native workflow — Arch + Hyprland, terminal-driven development
+-  Backend-first engineering with **FastAPI** & **Spring Boot**, paired with **React** on the frontend
+-  Containerized workflows — Docker + CI/CD pipelines, from local dev to production
+-  Building with **LLMs** (Groq) — practical AI integrations, not just API calls
+-  Daily DSA grind — Striver's A2Z sheet, Codeforces & LeetCode
+-  Linux-native workflow — Arch + Hyprland, terminal-driven development
 
 <div align="center">
 
@@ -35,7 +35,7 @@ Full-stack developer building backend-heavy, AI-integrated systems — from Dock
 **◤ ACTIVITY ◢**
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/voidirl/voidirl/main/github-metrics.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/voidirl/voidirl/main/github-metrics.svg" width="700" />
 </div>
 
 <div align="center">
