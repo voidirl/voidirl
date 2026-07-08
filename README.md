@@ -4,20 +4,24 @@
 
 **◤ ABOUT ◢**
 
-- Building full-stack projects with **FastAPI**, **Spring Boot**, and **React**
-- Containerizing everything with Docker, shipping with CI/CD
-- Grinding DSA daily — Striver's A2Z sheet, LeetCode
-- Exploring AI integrations
-- Daily driving Arch Linux + Hyprland
+Full-stack developer building backend-heavy, AI-integrated systems — from Dockerized microservices to LLM-powered tools. Currently pursuing BTech CSE, sharpening problem-solving through daily DSA practice, and shipping projects end-to-end: design, build, deploy.
+
+- 🔧 Backend-first engineering with **FastAPI** & **Spring Boot**, paired with **React** on the frontend
+- 🐳 Containerized workflows — Docker + CI/CD pipelines, from local dev to production
+- 🧠 Building with **LLMs** (Groq) — practical AI integrations, not just API calls
+- 📈 Daily DSA grind — Striver's A2Z sheet, Codeforces & LeetCode
+- ⚙️ Linux-native workflow — Arch + Hyprland, terminal-driven development
 
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-21262d?style=for-the-badge&logo=vercel&logoColor=white)](https://v0idrsh.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rshv11)
 [![Email](https://img.shields.io/badge/Email-21262d?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishavrajput204@gmail.com)
+
+</div>
+
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/rishav11-r?theme=dark&font=Nunito&ext=contest" />
-</div>
 </div>
 
 **◤ STACK ◢**
@@ -28,8 +32,12 @@
 
 </div>
 
-**◤ STATS ◢**
+**◤ ACTIVITY ◢**
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=voidirl&show_icons=true&theme=dracula&hide_border=true&count_private=true&card_width=440" /><img src="https://streak-stats.demolab.com/?user=voidirl&theme=dracula&hide_border=true&card_width=440" />
+  <img src="https://raw.githubusercontent.com/voidirl/voidirl/main/github-metrics.svg" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=voidirl&theme=dracula&hide_border=true&card_width=440" />
 </div>
