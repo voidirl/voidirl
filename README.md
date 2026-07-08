@@ -35,9 +35,11 @@ Full-stack developer building backend-heavy, AI-integrated systems — from Dock
 **◤ ACTIVITY ◢**
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/voidirl/voidirl/main/github-metrics.svg" width="600" />
+  <img src="https://raw.githubusercontent.com/voidirl/voidirl/main/assets/activity-card.svg" width="700" />
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=voidirl&theme=dracula&hide_border=true&card_width=400" />
+  <img src="https://streak-stats.demolab.com/?user=voidirl&background=0A0A0F&border=D4AF37&stroke=D4AF37&ring=D4AF37&fire=D4AF37&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=D4AF37&sideLabels=9A9A9A&dates=6A6A6A&card_width=700" />
 </div>
