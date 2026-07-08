@@ -5,8 +5,8 @@
   <text x="30" y="38" font-family="Segoe UI, sans-serif" font-size="14" fill="#D4AF37" font-weight="600">GITHUB ACTIVITY</text>
   <line x1="30" y1="50" x2="670" y2="50" stroke="#D4AF37" stroke-width="0.5" opacity="0.3"/>
 
-  <text x="30" y="90" font-family="Segoe UI, sans-serif" font-size="34" fill="#ffffff" font-weight="700">351</text>
-  <text x="30" y="112" font-family="Segoe UI, sans-serif" font-size="12" fill="#9a9a9a">Total Contributions</text>
+  <text x="30" y="90" font-family="Segoe UI, sans-serif" font-size="34" fill="#ffffff" font-weight="700">332</text>
+  <text x="30" y="112" font-family="Segoe UI, sans-serif" font-size="12" fill="#9a9a9a">Total Commits</text>
 
   <text x="220" y="90" font-family="Segoe UI, sans-serif" font-size="34" fill="#ffffff" font-weight="700">20</text>
   <text x="220" y="112" font-family="Segoe UI, sans-serif" font-size="12" fill="#9a9a9a">Repos Contributed To</text>
