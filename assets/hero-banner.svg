@@ -1,52 +1,47 @@
-<svg width="800" height="220" viewBox="0 0 800 220" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <radialGradient id="bgGrad" cx="50%" cy="40%" r="80%">
-      <stop offset="0%" stop-color="#2d1b3d" />
-      <stop offset="60%" stop-color="#1a1025" />
-      <stop offset="100%" stop-color="#0d0814" />
-    </radialGradient>
-  </defs>
+<svg width="1200" height="280" viewBox="0 0 1200 280" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="280" rx="12" fill="#0a0a0f"/>
+  <rect width="1200" height="280" rx="12" fill="none" stroke="#D4AF37" stroke-width="1" opacity="0.4"/>
 
-  <rect width="800" height="220" fill="url(#bgGrad)" rx="12" />
-
-  <!-- Twinkling stars -->
-  <g fill="#FF6B9D">
-    <circle cx="40" cy="30" r="1.5"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.1s" repeatCount="indefinite" /></circle>
-    <circle cx="120" cy="60" r="1"><animate attributeName="opacity" values="0.2;1;0.2" dur="1.8s" begin="0.4s" repeatCount="indefinite" /></circle>
-    <circle cx="200" cy="25" r="1.2"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.4s" begin="0.8s" repeatCount="indefinite" /></circle>
-    <circle cx="310" cy="45" r="1"><animate attributeName="opacity" values="0.2;1;0.2" dur="1.6s" begin="1.1s" repeatCount="indefinite" /></circle>
-    <circle cx="60" cy="160" r="1.3"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.2s" begin="0.2s" repeatCount="indefinite" /></circle>
-    <circle cx="150" cy="190" r="1"><animate attributeName="opacity" values="0.2;1;0.2" dur="1.9s" begin="0.6s" repeatCount="indefinite" /></circle>
-    <circle cx="700" cy="35" r="1.4"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.3s" begin="0.3s" repeatCount="indefinite" /></circle>
-    <circle cx="640" cy="70" r="1"><animate attributeName="opacity" values="0.2;1;0.2" dur="1.7s" begin="0.9s" repeatCount="indefinite" /></circle>
-    <circle cx="760" cy="100" r="1.2"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.5s" begin="1.3s" repeatCount="indefinite" /></circle>
-    <circle cx="730" cy="170" r="1"><animate attributeName="opacity" values="0.2;1;0.2" dur="1.8s" begin="0.5s" repeatCount="indefinite" /></circle>
-    <circle cx="80" cy="100" r="1"><animate attributeName="opacity" values="0.2;1;0.2" dur="2s" begin="1.5s" repeatCount="indefinite" /></circle>
-    <circle cx="400" cy="20" r="1.3"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.1s" begin="0.7s" repeatCount="indefinite" /></circle>
-    <circle cx="450" cy="190" r="1"><animate attributeName="opacity" values="0.2;1;0.2" dur="1.9s" begin="1s" repeatCount="indefinite" /></circle>
-    <circle cx="600" cy="190" r="1.2"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.3s" begin="0.4s" repeatCount="indefinite" /></circle>
-    <circle cx="250" cy="170" r="1"><animate attributeName="opacity" values="0.2;1;0.2" dur="1.6s" begin="1.2s" repeatCount="indefinite" /></circle>
-    <circle cx="500" cy="40" r="1.4"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.4s" begin="0.1s" repeatCount="indefinite" /></circle>
-    <circle cx="550" cy="160" r="1"><animate attributeName="opacity" values="0.2;1;0.2" dur="1.8s" begin="0.8s" repeatCount="indefinite" /></circle>
-    <circle cx="350" cy="100" r="1.1"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.2s" begin="1.4s" repeatCount="indefinite" /></circle>
+  <!-- subtle grid texture -->
+  <g opacity="0.05" stroke="#D4AF37" stroke-width="0.5">
+    <line x1="0" y1="70" x2="1200" y2="70"/>
+    <line x1="0" y1="140" x2="1200" y2="140"/>
+    <line x1="0" y1="210" x2="1200" y2="210"/>
+    <line x1="300" y1="0" x2="300" y2="280"/>
+    <line x1="600" y1="0" x2="600" y2="280"/>
+    <line x1="900" y1="0" x2="900" y2="280"/>
   </g>
 
-  <!-- Drifting larger glow particles -->
-  <circle cx="100" cy="50" r="2.5" fill="#F953C6" opacity="0.6">
-    <animate attributeName="cy" values="50;45;50" dur="6s" repeatCount="indefinite" />
-    <animate attributeName="opacity" values="0.6;0.2;0.6" dur="6s" repeatCount="indefinite" />
-  </circle>
-  <circle cx="680" cy="150" r="3" fill="#FF6B9D" opacity="0.5">
-    <animate attributeName="cy" values="150;143;150" dur="7s" repeatCount="indefinite" />
-    <animate attributeName="opacity" values="0.5;0.15;0.5" dur="7s" repeatCount="indefinite" />
-  </circle>
-  <circle cx="400" cy="180" r="2" fill="#C9184A" opacity="0.5">
-    <animate attributeName="cy" values="180;172;180" dur="5.5s" repeatCount="indefinite" />
-    <animate attributeName="opacity" values="0.5;0.15;0.5" dur="5.5s" repeatCount="indefinite" />
-  </circle>
+  <!-- terminal titlebar -->
+  <rect x="0" y="0" width="1200" height="36" rx="12" fill="#12121a"/>
+  <rect x="0" y="24" width="1200" height="12" fill="#12121a"/>
+  <circle cx="26" cy="18" r="6" fill="#3a3a42"/>
+  <circle cx="46" cy="18" r="6" fill="#3a3a42"/>
+  <circle cx="66" cy="18" r="6" fill="#D4AF37"/>
+  <text x="600" y="23" font-family="JetBrains Mono, Consolas, monospace" font-size="12" fill="#6a6a6a" text-anchor="middle">rishav@void:~</text>
 
-  <!-- Text -->
-  <text x="400" y="95" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="32" font-weight="700" fill="#ffffff">Hello! I'm Rishav 👋</text>
-  <text x="400" y="130" text-anchor="middle" font-family="'Fira Code', monospace" font-size="16" fill="#FF6B9D">Full Stack Dev - DSA Grinder - Building things</text>
-  <text x="400" y="165" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="14" fill="#c9c9c9">Self-taught full-stack developer from India, pursuing BTech CSE</text>
+  <!-- terminal body -->
+  <g font-family="JetBrains Mono, Consolas, monospace" font-size="20">
+    <text x="50" y="90" fill="#D4AF37">rishav@void</text>
+    <text x="220" y="90" fill="#6a6a6a">~</text>
+    <text x="245" y="90" fill="#D4AF37">%</text>
+    <text x="270" y="90" fill="#e0e0e0">whoami</text>
+
+    <text x="50" y="130" fill="#9a9a9a">&gt;</text>
+    <text x="75" y="130" fill="#ffffff" font-weight="700" font-size="26">Rishav</text>
+    <text x="260" y="130" fill="#9a9a9a" font-size="20">— full-stack developer, backend &amp; AI systems</text>
+
+    <text x="50" y="168" fill="#9a9a9a">&gt;</text>
+    <text x="75" y="168" fill="#c9c9c9" font-size="17">self-taught · BTech CSE · shipping projects end-to-end</text>
+
+    <text x="50" y="206" fill="#D4AF37">rishav@void</text>
+    <text x="220" y="206" fill="#6a6a6a">~</text>
+    <text x="245" y="206" fill="#D4AF37">%</text>
+    <rect x="270" y="190" width="12" height="22" fill="#D4AF37">
+      <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.5;0.5;1;1" dur="1.2s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <line x1="50" y1="240" x2="1150" y2="240" stroke="#D4AF37" stroke-width="0.5" opacity="0.3"/>
+  <text x="50" y="262" font-family="JetBrains Mono, Consolas, monospace" font-size="12" fill="#6a6a6a">github.com/voidirl · Arch Linux + Hyprland · terminal-driven workflow</text>
 </svg>
