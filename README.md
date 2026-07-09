@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/voidirl/voidirl/main/assets/hero-banner.svg" width="80%" />
+<img src="https://raw.githubusercontent.com/voidirl/voidirl/main/assets/hero-banner.svg" width="98%" />
 </div>
 
 **◤ ABOUT ◢**
