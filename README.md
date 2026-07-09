@@ -4,13 +4,13 @@
 
 **◤ ABOUT ◢**
 
-Full-stack developer building backend-heavy, AI-integrated systems — from Dockerized microservices to LLM-powered tools. Currently pursuing BTech CSE, sharpening problem-solving through daily DSA practice, and shipping projects end-to-end: design, build, deploy.
+Full-stack developer focused on backend systems and AI integration — building Dockerized services and shipping projects end-to-end, from design through deployment.
 
--  Backend-first engineering with **FastAPI** & **Spring Boot**, paired with **React** on the frontend
--  Containerized workflows — Docker + CI/CD pipelines, from local dev to production
--  Building with **LLMs** (Groq) — practical AI integrations, not just API calls
--  Daily DSA grind — Striver's A2Z sheet, Codeforces & LeetCode
--  Linux-native workflow — Arch + Hyprland, terminal-driven development
+- Backend development with **FastAPI** and **Spring Boot**, complemented by **React** on the frontend
+- Containerized workflows with Docker and CI/CD pipelines, from local development to production
+- Practical LLM integration (Groq) — applying AI capabilities to real backend systems
+- Consistent DSA practice — Striver's A2Z sheet, Codeforces, and LeetCode
+- Linux-based development environment — Arch Linux with Hyprland, terminal-driven workflow
 
 <div align="center">
 
@@ -35,7 +35,11 @@ Full-stack developer building backend-heavy, AI-integrated systems — from Dock
 **◤ ACTIVITY ◢**
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/voidirl/voidirl/main/assets/activity-card.svg" width="700" />
+
+![GitHub Stats](https://github-readme-stats-dun-ten-99.vercel.app/api?username=voidirl&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0f&title_color=D4AF37&text_color=e0e0e0&icon_color=D4AF37&border_color=D4AF37)
+
+![Top Languages](https://github-readme-stats-dun-ten-99.vercel.app/api/top-langs/?username=voidirl&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0f&title_color=D4AF37&text_color=e0e0e0&border_color=D4AF37)
+
 </div>
 
 <br/>
