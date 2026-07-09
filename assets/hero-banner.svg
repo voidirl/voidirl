@@ -1,9 +1,8 @@
 <svg width="1200" height="280" viewBox="0 0 1200 280" xmlns="http://www.w3.org/2000/svg">
   <rect width="1200" height="280" rx="12" fill="#0a0a0f"/>
-  <rect width="1200" height="280" rx="12" fill="none" stroke="#D4AF37" stroke-width="1" opacity="0.4"/>
+  <rect width="1200" height="280" rx="12" fill="none" stroke="#8b5cf6" stroke-width="1" opacity="0.4"/>
 
-  <!-- subtle grid texture -->
-  <g opacity="0.05" stroke="#D4AF37" stroke-width="0.5">
+  <g opacity="0.05" stroke="#8b5cf6" stroke-width="0.5">
     <line x1="0" y1="70" x2="1200" y2="70"/>
     <line x1="0" y1="140" x2="1200" y2="140"/>
     <line x1="0" y1="210" x2="1200" y2="210"/>
@@ -12,36 +11,34 @@
     <line x1="900" y1="0" x2="900" y2="280"/>
   </g>
 
-  <!-- terminal titlebar -->
   <rect x="0" y="0" width="1200" height="36" rx="12" fill="#12121a"/>
   <rect x="0" y="24" width="1200" height="12" fill="#12121a"/>
   <circle cx="26" cy="18" r="6" fill="#3a3a42"/>
   <circle cx="46" cy="18" r="6" fill="#3a3a42"/>
-  <circle cx="66" cy="18" r="6" fill="#D4AF37"/>
-  <text x="600" y="23" font-family="JetBrains Mono, Consolas, monospace" font-size="12" fill="#6a6a6a" text-anchor="middle">rishav@void:~</text>
+  <circle cx="66" cy="18" r="6" fill="#8b5cf6"/>
+  <text x="600" y="23" font-family="JetBrains Mono, Consolas, monospace" font-size="12" fill="#6b6b7a" text-anchor="middle">rishav@void:~</text>
 
-  <!-- terminal body -->
   <g font-family="JetBrains Mono, Consolas, monospace" font-size="20">
-    <text x="50" y="90" fill="#D4AF37">rishav@void</text>
-    <text x="220" y="90" fill="#6a6a6a">~</text>
-    <text x="245" y="90" fill="#D4AF37">%</text>
-    <text x="270" y="90" fill="#e0e0e0">whoami</text>
+    <text x="50" y="90" fill="#8b5cf6">rishav@void</text>
+    <text x="220" y="90" fill="#6b6b7a">~</text>
+    <text x="245" y="90" fill="#8b5cf6">%</text>
+    <text x="270" y="90" fill="#e4e2f0">whoami</text>
 
-    <text x="50" y="130" fill="#9a9a9a">&gt;</text>
+    <text x="50" y="130" fill="#6b6b7a">&gt;</text>
     <text x="75" y="130" fill="#ffffff" font-weight="700" font-size="26">Rishav</text>
-    <text x="260" y="130" fill="#9a9a9a" font-size="20">— full-stack developer, backend &amp; AI systems</text>
+    <text x="260" y="130" fill="#6b6b7a" font-size="20">— full-stack developer, backend &amp; AI systems</text>
 
-    <text x="50" y="168" fill="#9a9a9a">&gt;</text>
-    <text x="75" y="168" fill="#c9c9c9" font-size="17">self-taught · BTech CSE · shipping projects end-to-end</text>
+    <text x="50" y="168" fill="#6b6b7a">&gt;</text>
+    <text x="75" y="168" fill="#c9c7d6" font-size="17">self-taught · BTech CSE · shipping projects end-to-end</text>
 
-    <text x="50" y="206" fill="#D4AF37">rishav@void</text>
-    <text x="220" y="206" fill="#6a6a6a">~</text>
-    <text x="245" y="206" fill="#D4AF37">%</text>
-    <rect x="270" y="190" width="12" height="22" fill="#D4AF37">
+    <text x="50" y="206" fill="#8b5cf6">rishav@void</text>
+    <text x="220" y="206" fill="#6b6b7a">~</text>
+    <text x="245" y="206" fill="#8b5cf6">%</text>
+    <rect x="270" y="190" width="12" height="22" fill="#8b5cf6">
       <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.5;0.5;1;1" dur="1.2s" repeatCount="indefinite"/>
     </rect>
   </g>
 
-  <line x1="50" y1="240" x2="1150" y2="240" stroke="#D4AF37" stroke-width="0.5" opacity="0.3"/>
-  <text x="50" y="262" font-family="JetBrains Mono, Consolas, monospace" font-size="12" fill="#6a6a6a">github.com/voidirl · Arch Linux + Hyprland · terminal-driven workflow</text>
+  <line x1="50" y1="240" x2="1150" y2="240" stroke="#8b5cf6" stroke-width="0.5" opacity="0.3"/>
+  <text x="50" y="262" font-family="JetBrains Mono, Consolas, monospace" font-size="12" fill="#6b6b7a">github.com/voidirl · Arch Linux + Hyprland · terminal-driven workflow</text>
 </svg>
