@@ -28,7 +28,7 @@ Full-stack developer focused on backend systems and AI integration — building 
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,cpp,fastapi,spring,react,postgresql,mysql,docker,linux&theme=dark&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,cpp,fastapi,spring,react,postgresql,mysql,docker,linux&theme=dark&perline=10)](https://skillicons.dev)
 
 </div>
 
@@ -36,14 +36,14 @@ Full-stack developer focused on backend systems and AI integration — building 
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-dun-ten-99.vercel.app/api?username=voidirl&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0f&title_color=D4AF37&text_color=e0e0e0&icon_color=D4AF37&border_color=D4AF37)
+![GitHub Stats](https://github-readme-stats-dun-ten-99.vercel.app/api?username=voidirl&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0f&title_color=8b5cf6&text_color=e4e2f0&icon_color=8b5cf6&border_color=8b5cf6)
 
-![Top Languages](https://github-readme-stats-dun-ten-99.vercel.app/api/top-langs/?username=voidirl&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0f&title_color=D4AF37&text_color=e0e0e0&border_color=D4AF37)
+![Top Languages](https://github-readme-stats-dun-ten-99.vercel.app/api/top-langs/?username=voidirl&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0f&title_color=8b5cf6&text_color=e4e2f0&border_color=8b5cf6)
 
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=voidirl&background=0A0A0F&border=D4AF37&stroke=D4AF37&ring=D4AF37&fire=D4AF37&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=D4AF37&sideLabels=9A9A9A&dates=6A6A6A&card_width=700" />
+  <img src="https://streak-stats.demolab.com/?user=voidirl&background=0A0A0F&border=8b5cf6&stroke=8b5cf6&ring=8b5cf6&fire=8b5cf6&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=8b5cf6&sideLabels=6b6b7a&dates=6a6a6a&card_width=700" />
 </div>
