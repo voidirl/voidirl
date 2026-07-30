@@ -45,5 +45,5 @@ Full-stack developer focused on backend systems and AI integration — building 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=voidirl&background=0A0A0F&border=8b5cf6&stroke=8b5cf6&ring=8b5cf6&fire=8b5cf6&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=8b5cf6&sideLabels=6b6b7a&dates=6a6a6a&card_width=700" />
+  <img src="https://streak-stats.demolab.com/?user=voidirl&background=0A0A0F&border=8b5cf6&stroke=8b5cf6&ring=8b5cf6&fire=8b5cf6&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=8b5cf6&sideLabels=6b6b7a&dates=6a6a6a&card_width=700&cacheBust=1" />
 </div>
