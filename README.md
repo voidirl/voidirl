@@ -36,9 +36,9 @@ Full-stack developer focused on backend systems and AI integration — building 
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-dun-ten-99.vercel.app/api?username=voidirl&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0f&title_color=8b5cf6&text_color=e4e2f0&icon_color=8b5cf6&border_color=8b5cf6)
+![GitHub Stats](https://github-readme-stats-dun-ten-99.vercel.app/api?username=voidirl&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0f&title_color=8b5cf6&text_color=e4e2f0&icon_color=8b5cf6&border_color=8b5cf6&cacheBust=1)
 
-![Top Languages](https://github-readme-stats-dun-ten-99.vercel.app/api/top-langs/?username=voidirl&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0f&title_color=8b5cf6&text_color=e4e2f0&border_color=8b5cf6)
+![Top Languages](https://github-readme-stats-dun-ten-99.vercel.app/api/top-langs/?username=voidirl&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0f&title_color=8b5cf6&text_color=e4e2f0&border_color=8b5cf6&cacheBust=1)
 
 </div>
 
