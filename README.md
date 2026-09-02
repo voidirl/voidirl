@@ -8,8 +8,8 @@ Full-stack developer focused on backend systems and AI integration — building 
 
 - Backend development with **FastAPI** and **Spring Boot**, complemented by **React** on the frontend
 - Containerized workflows with Docker and CI/CD pipelines, from local development to production
-- Practical LLM integration (Groq) — applying AI capabilities to real backend systems
-- Consistent DSA practice — Striver's A2Z sheet and LeetCode
+- Practical LLM integration — applying AI capabilities to real backend systems
+- Consistent DSA practice in LeetCode
 - Linux-based development environment — Arch Linux with Hyprland, terminal-driven workflow
 
 <div align="center">
